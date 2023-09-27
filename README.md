@@ -1,9 +1,11 @@
 
-
 <h1 align="center">Hi 👋, I'm Kristijan Goshevski</h1>
 <h3 align="center">Software Developer from Macedonia</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/fetch/w300-preview/81/81876afca14937139a62042f5677ebfc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krissgoshevski&label=Profile%20views&color=0e75b6&style=flat" alt="krissgoshevski" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krissgoshevski&label=Profile%20views&color=0e75b6&style=flat" alt="krissgoshevski" /> </p>
+
+- 🔭 I am currently working as a freelancer on Fiver / self employed
 
 - 🌱 I’m currently learning **React JS**
 
@@ -26,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krissgoshevski&show_icons=true&locale=en" alt="krissgoshevski" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krissgoshevski&" alt="krissgoshevski" /></p>
+
 
