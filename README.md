@@ -3,7 +3,6 @@
 <h3 align="center">Software Developer from Macedonia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krissgoshevski&label=Profile%20views&color=0e75b6&style=flat" alt="krissgoshevski" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krissgoshevski&label=Profile%20views&color=0e75b6&style=flat" alt="krissgoshevski" /> </p>
 
 - 🔭 I am currently working as a freelancer on Fiver / self employed
 
