@@ -6,7 +6,7 @@
 
 - 🔭 I am currently working as a freelancer on Fiver / self employed
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node.Js**
 
 - 💬 Ask me about **PHP/Laravel**
 
