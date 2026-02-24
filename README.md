@@ -1,14 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Kristijan Goshevski</h1>
-<h3 align="center">Software Developer from Macedonia</h3>
+<h3 align="center">Senior Software Engineer from Macedonia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krissgoshevski&label=Profile%20views&color=0e75b6&style=flat" alt="krissgoshevski" /> </p>
 
 
-- 🔭 I am currently working as a freelancer on Fiver / self employed
+- 🔭 I am currently working as a Senior Software Engineer at SinceritasEU
 
-- 🌱 I’m currently learning **Node.Js**
-
-- 💬 Ask me about **PHP/Laravel**
+- 💬 Ask me about **PHP/Laravel/Python/Flask**
 
 - 📫 How to reach me **krissgoshevski@yahoo.com**
 
